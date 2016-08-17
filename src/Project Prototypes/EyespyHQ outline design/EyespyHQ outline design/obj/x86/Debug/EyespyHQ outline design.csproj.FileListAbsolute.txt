@@ -1,0 +1,9 @@
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\bin\Debug\EyespyHQ outline design.exe
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\bin\Debug\EyespyHQ outline design.pdb
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\obj\x86\Debug\EyespyHQ_outline_design.Form1.resources
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\obj\x86\Debug\EyespyHQ_outline_design.Properties.Resources.resources
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\obj\x86\Debug\EyespyHQ outline design.exe
+C:\Users\staffuser\AppData\Local\Temporary Projects\EyespyHQ outline design\obj\x86\Debug\EyespyHQ outline design.pdb

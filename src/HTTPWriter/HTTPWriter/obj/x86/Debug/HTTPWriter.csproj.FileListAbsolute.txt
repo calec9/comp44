@@ -1,0 +1,14 @@
+C:\Users\charlesdowns\AppData\Local\Temporary Projects\HTTPWriter\bin\Debug\HTTPWriter.exe
+C:\Users\charlesdowns\AppData\Local\Temporary Projects\HTTPWriter\bin\Debug\HTTPWriter.pdb
+C:\Users\charlesdowns\AppData\Local\Temporary Projects\HTTPWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlesdowns\AppData\Local\Temporary Projects\HTTPWriter\obj\x86\Debug\HTTPWriter.exe
+C:\Users\charlesdowns\AppData\Local\Temporary Projects\HTTPWriter\obj\x86\Debug\HTTPWriter.pdb
+C:\Users\charlesdowns\documents\visual studio 2010\Projects\HTTPWriter\HTTPWriter\obj\x86\Debug\HTTPWriter.exe
+C:\Users\charlesdowns\documents\visual studio 2010\Projects\HTTPWriter\HTTPWriter\obj\x86\Debug\HTTPWriter.pdb
+C:\Users\charlesdowns\documents\visual studio 2010\Projects\HTTPWriter\HTTPWriter\bin\Debug\HTTPWriter.exe
+C:\Users\charlesdowns\documents\visual studio 2010\Projects\HTTPWriter\HTTPWriter\bin\Debug\HTTPWriter.pdb
+C:\Users\charlesdowns\documents\visual studio 2010\Projects\HTTPWriter\HTTPWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\College\Charles\Computing\COMP4 -\COMP4 - Project\HTTPWriter\HTTPWriter\obj\x86\Debug\HTTPWriter.exe
+G:\College\Charles\Computing\COMP4 -\COMP4 - Project\HTTPWriter\HTTPWriter\obj\x86\Debug\HTTPWriter.pdb
+G:\College\Charles\Computing\COMP4 -\COMP4 - Project\HTTPWriter\HTTPWriter\bin\Debug\HTTPWriter.exe
+G:\College\Charles\Computing\COMP4 -\COMP4 - Project\HTTPWriter\HTTPWriter\bin\Debug\HTTPWriter.pdb

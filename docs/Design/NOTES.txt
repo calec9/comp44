@@ -1,0 +1,5 @@
+Design - 
+Copy the flow charts at the top to the algorithms section
+Replace trapezium rectangles to rectangles 
+Delete the ones at the top
+Replace them with with the physical components (router, server, computer)

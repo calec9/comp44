@@ -1,0 +1,9 @@
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\bin\Release\Eyespy Core v1.exe
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\bin\Release\Eyespy Core v1.pdb
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\obj\x86\Release\Eyespy_Core_v1.Form1.resources
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\obj\x86\Release\Eyespy_Core_v1.Properties.Resources.resources
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\obj\x86\Release\GenerateResource.read.1.tlog
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\obj\x86\Release\GenerateResource.write.1.tlog
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\obj\x86\Release\Eyespy Core v1.exe
+F:\College\Charles\Computing\COMP4\COMP4 - Project\Project Prototypes\Eyespy Core v1\Eyespy Core v1\obj\x86\Release\Eyespy Core v1.pdb
